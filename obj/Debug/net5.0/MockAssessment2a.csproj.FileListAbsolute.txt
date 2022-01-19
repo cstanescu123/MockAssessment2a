@@ -1,0 +1,16 @@
+C:\Users\corne\Desktop\New folder (2)\Mock Assessment 2\MockAssessment2a\bin\Debug\net5.0\MockAssessment2a.exe
+C:\Users\corne\Desktop\New folder (2)\Mock Assessment 2\MockAssessment2a\bin\Debug\net5.0\MockAssessment2a.deps.json
+C:\Users\corne\Desktop\New folder (2)\Mock Assessment 2\MockAssessment2a\bin\Debug\net5.0\MockAssessment2a.runtimeconfig.json
+C:\Users\corne\Desktop\New folder (2)\Mock Assessment 2\MockAssessment2a\bin\Debug\net5.0\MockAssessment2a.runtimeconfig.dev.json
+C:\Users\corne\Desktop\New folder (2)\Mock Assessment 2\MockAssessment2a\bin\Debug\net5.0\MockAssessment2a.dll
+C:\Users\corne\Desktop\New folder (2)\Mock Assessment 2\MockAssessment2a\bin\Debug\net5.0\ref\MockAssessment2a.dll
+C:\Users\corne\Desktop\New folder (2)\Mock Assessment 2\MockAssessment2a\bin\Debug\net5.0\MockAssessment2a.pdb
+C:\Users\corne\Desktop\New folder (2)\Mock Assessment 2\MockAssessment2a\obj\Debug\net5.0\MockAssessment2a.csproj.AssemblyReference.cache
+C:\Users\corne\Desktop\New folder (2)\Mock Assessment 2\MockAssessment2a\obj\Debug\net5.0\MockAssessment2a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corne\Desktop\New folder (2)\Mock Assessment 2\MockAssessment2a\obj\Debug\net5.0\MockAssessment2a.AssemblyInfoInputs.cache
+C:\Users\corne\Desktop\New folder (2)\Mock Assessment 2\MockAssessment2a\obj\Debug\net5.0\MockAssessment2a.AssemblyInfo.cs
+C:\Users\corne\Desktop\New folder (2)\Mock Assessment 2\MockAssessment2a\obj\Debug\net5.0\MockAssessment2a.csproj.CoreCompileInputs.cache
+C:\Users\corne\Desktop\New folder (2)\Mock Assessment 2\MockAssessment2a\obj\Debug\net5.0\MockAssessment2a.dll
+C:\Users\corne\Desktop\New folder (2)\Mock Assessment 2\MockAssessment2a\obj\Debug\net5.0\ref\MockAssessment2a.dll
+C:\Users\corne\Desktop\New folder (2)\Mock Assessment 2\MockAssessment2a\obj\Debug\net5.0\MockAssessment2a.pdb
+C:\Users\corne\Desktop\New folder (2)\Mock Assessment 2\MockAssessment2a\obj\Debug\net5.0\MockAssessment2a.genruntimeconfig.cache
